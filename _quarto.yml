@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+resources:
+  - images/**
+
+website:
+  title: "ELIZABETH CRUZ PORTFOLIO"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - lumen
+      - brand
+    css: styles.css
+    toc: true
+
+
+
