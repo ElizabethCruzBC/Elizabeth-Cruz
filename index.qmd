@@ -25,77 +25,94 @@ theme: lumen
 </div>
 
 ***
+About me:
 
-Welcome to my site!!!
-
-I am a results-driven MBA candidate with over 10 years of experience in leadership, customer service, and financial management. Proven ability to drive sales growth, proficiency in exceeding customer service indicators, exceeding performance targets, and enhancing customer retention strategies. Expertise in managing loyalty programs and insurance portfolios and delivering tailored solutions. Skilled in training teams and collaborating with key stakeholders to optimize operations. Proficient with QuickBooks and strategic planning of business, customer satisfaction and efficiency.
+Chemical Engineering Professional completing an MBA in Operations Management, with 5+ years of experience in process optimization, operational excellence, supply chain coordination, and quality assurance. Skilled in auditing, project management, and safety compliance, with a proven track record in cost reduction and workflow efficiency. Recognized for leading cross-functional teams, mentoring staff, and driving continuous improvement to enhance organizational performance.
 
 ***
 
-## <i class="bi bi-backpack"></i> **Education**
+## <i class="bi bi-mortarboard-fill"></i> **Education**
 
-**Master Business Administration (MBA)** 
-University Canada West — Vancouver, Canada  
-_Expected 2025_
+**Master Business Administration (MBA) specialization in Supply Chain** University Canada West, Vancouver, B.C. | _Expected May 2026_
 
-**Strategic Business Management (Postgraduate)**  
-Universidad Sergio Arboleda, Bogotá, Colombia (2013)
+**B.Sc. in Chemical Engineering** Autonomous University of San Luis Potosí, Mexico. | 2020
 
-**B.Sc. Industrial Engineering**  
-Universidad Sergio Arboleda, Bogotá, Colombia (2007)
+***
+
+## <i class="bi bi-lightbulb-fill"></i> **Certifications**
+
+**Financial Accounting** | University Canada West, Vancouver | 2025
+
+**The Importance of Labor Relations** | Autonomous University of San Luis Potosí | 2021
+
+**Statistical Process Control** | Autonomous University of San Luis Potosí | 2021
+
+**Principles of Productivity and Quality in the Industry** | Autonomous University of San Luis Potosí | 2021
+
+***
+
+
+## <i class="bi bi-chat-dots-fill"></i> **Skills & Strengths**
+Operations & Financial Management | Process Optimization | Lean Six Sigma Principles | Operational KPIs | Audit Compliance | Project Planning & Execution | Risk Assessment | Data Analysis | Strategic Decision-Making | Team Leadership & Coaching | Effective Communication | Emotional Intelligence | Adaptability | Diversity & Inclusion Awareness 
+
+***
+
+
+## <i class="bi bi-gear-fill"></i> **Software Experience**
+Advanced Microsoft Office Suite | Tableau | Visual Studio Code | ProjectLibre | Draw.io | SketchUp | Aspen HYSYS | CHEMCAD
+
 
 ***
 
 ## <i class="bi bi-briefcase-fill"></i> Professional Highlights
 
-### Loyalty Coordinator – Keralty EPS Sanitas (2020–2024)  
-- Drove over $46,000 in annual sales growth by expanding membership in the Premium Plan in Colombia.
-- Exceeded KPIs by 110% through strategic planning and customer engagement initiatives.
-- Designed and implemented customer retention strategies, enhancing loyalty for Premium Plan members.
-- Trained over 20 leaders and 300 employees on loyalty programs, products, and customer benefits.
-- Collaborated with 25+ partners to enhance loyalty benefits for 100,000 customers, managing $1 million annually in digital strategies to promote health product sales.
+### Campus Support Ambassador | University Canada West – Vancouver BC                                                          (Sept 2025-present)  
+Supported a diverse student body of 14,000+ and 244 staff, directly enhancing campus operational efficiency and overall satisfaction.
+
+- Ensure classroom and facility safety compliance, cleanliness, and efficient use of resources while coordinating logistics for classrooms, supplies, and technical assets to optimize workflows.
+- Act as floor warden and emergency responder, implementing safety protocols, guiding evacuations. Recommended data-driven process improvements to support continuous operational enhancements.
 
 
-### Insurance Manager – Insurance Risk Company (2019–2024)  
-- Guided clients in finding tailored insurance solutions, collaborating with various insurance companies in Colombia.
-- Managed over 1,000 customer accounts independently, handling diverse policies, including life, health, auto, and home insurance.
-- Prospected and sold insurance products by presenting coverage options, pricing, and benefits to meet client needs.
-- Achieved a 95% average customer satisfaction rating.
-- Consistently increased insurance sales by 30% annually, contributing to company growth and targets.
+### Administrative Director | Institute of Dental Prosthetics – San Luis Potosí, Mexico (2021–2024) 
+Directed operations for 200+ students and 20 staff, driving efficiency, compliance, and business growth.
+
+- Optimized workflows, internal controls, and supply chain processes, reducing financial losses by 50%, increasing efficiency by 30%, and improving compliance through audits and data-driven decisions.
+- Led a successful CAD $50,000 lab investment project and secured 2024 government accreditation by managing audits, regulatory processes, and cost control.
+- Built partnerships with 50+ organizations, launching a job placement program that enhanced reputation, student employability, and operational excellence.
  
+### Operations Manager | Institute of Vocational Training – San Luis Potosí, Mexico (2019–2021)  
+Directed campus operations for 100+ students and 10 faculty members, enhancing efficiency, compliance, and student/staff experience.
 
-### Insurance Senior Rep – GM Financial Colombia (2015–2019)  
-- Managed a portfolio of 42,000+ quarters/credit life automobile policy and 56,000+ credit life policy.
-- Built a commission of more than 6.5M yearly.
-- Developed new dealer training, new insurance products as well as incentives plans.
+- Redesigned admissions and academic record processes, cutting document turnaround time by 40%, streamlining operations, and implementing financial tracking and internal controls to prevent losses and support data-driven decisions.
+- Optimized staff schedules, classroom setups, and campus events, achieving 99% student and staff satisfaction while launching marketing and outreach campaigns that increased program visibility and enrollment by 50%, enabling a 30% staff salary increase.
+- Developed operational manuals and compliance procedures, ensuring regulatory alignment and achieving 100% audit approval.
 
-### Corporate Analyst – Nueva EPS (2011–2015)  
-- Re-developed business approaches and new broker relationships (AON, Willis, Delima).
-- Headed initiatives on product development and mass communication.
 
 ***
 
-## <i class="bi bi-lightbulb-fill"></i> **Skills & Strengths**
 
-- Insurance Strategy & Market Benchmarking  
-- Digital Health Innovation  
-- Leadership & People Empowerment  
-- Sales Negotiation & Retention  
-- Product Development & Positioning  
-- Tools: Excel, Quarto, Word, PowerPoint, LLMs  
-- Financial Management
-- Customer Service Excellence
-- Strategic Problem-Solving
-- Project Management
-- Human Resources Management
-- Change Management
-- Compliance and Risk Management
+## <i class="bi bi-people-fill"></i> **Internships and Volunteer Experience**
+### Volunteer – Key Contact ### 
+Supply Chain Club – University Canada West, Vancouver, B.C. | Sep 2025 - Present
+Served as an executive team member, leading initiatives and supporting club operations.
+
+### Volunteer - Event Coordination Lead ###
+Ambassador for Career Success, University Canada West, Vancouver, B.C.|Sep 2025 - Present 
+Demonstrated leadership, teamwork, and organizational skills in planning and executing campus events.
+
+### Internship - Operations Intern ###
+QB Chemical Industries Corporate Services – San Luis Potosí, Mexico | 2015
+Gained hands-on experience in operations, process optimization, and quality control.
+
 
 ***
 
-## **Contact**
+## <i class="bi bi-telephone-fill"></i> **Contact**
 
-<i class="bi bi-envelope-at"></i> juancamilo.rodriguezgarzon@gmail.com  
-<i class="bi bi-pin-map-fill"></i> Surrey, BC, Canada  
-<i class="bi bi-phone-vibrate"></i> +1 (672) 336-7924  
-<i class="bi bi-linkedin"></i> www.linkedin.com/in juan-camilo-rodriguez-garzon-1b180796
+<i class="bi bi-envelope-at"></i> alecruzzamora@hotmail.com 
+
+<i class="bi bi-pin-map-fill"></i> Vancouver, B.C., Canada 
+
+<i class="bi bi-phone-vibrate"></i> +1 (236) 979-9913 
+
+<i class="bi bi-linkedin"></i> www.linkedin.com/in/elizabethcruzzamora/
