@@ -1,0 +1,413 @@
+---
+title: "“One-Page MBA Portfolio Webpage with Quarto & LLM”"
+author: "Alejandra Elizabeth Cruz Zamora, 2403966
+
+\nUniversity Canada West
+
+\nBUSI654: Application of AI in Business
+
+\nDr. Davood Wadi
+
+\nOctober 26, 2025"
+format: pdf
+documentclass: article
+fontsize: 12pt
+linestretch: 2      
+geometry: margin=1in
+csl: apa.csl        
+---
+
+```{=typst}
+#pagebreak()
+```
+**Table of contents**
+
+
+***Executive summary*** **........................................................................3**
+
+***Personal Commentary*** **....................................................................4**
+
+***References*** **.......................................................................................6**
+
+***Appendix A1 GEMINI*** **.....................................................................7**
+
+***Appendix A2 CHAT GPT*** **................................................................9**
+
+***Appendix A3 SPREED CHAT*** **........................................................12**
+
+```{=typst}
+#pagebreak()
+```
+**Executive Summary**
+
+In this report, I explain how I built my one-page MBA Portfolio webpage with the help of three AI tools: Gemini, ChatGPT, and Spreed Chat. I tried to personalize the content by uploading my resume as a PDF. Still the results felt too brief, generic, and sometimes unrealistic and the tools often combined unrelated details, like volunteering and skills, and used language that did not match my actual experience.
+
+I decided to keep the overall structure suggested by the LLMs but rewrite all the content in my own words. I focused on my real achievements, including improving event organization, promoting student engagement, and streamlining operations. I also highlighted my true academic background as a Chemical Engineer and MBA candidate in Operations Management.
+
+When I rewrote the content myself, the portfolio became more authentic, professional, and true to who I am, the final version shows my real experience, goals, and personality. Through this project, I learned that AI tools are helpful for getting started and organizing ideas, but the most important part is adding your own voice to make the result genuine and personal.
+
+
+```{=typst}
+#pagebreak()
+```
+***Personal Commentary***
+
+For my one-page MBA Portfolio webpage I used three different Large Language Models (LLMs): Gemini, ChatGPT, and Spreed Chat.
+Each one helped me to start the creative process, organize ideas, and find ways to present my background professionally.
+All three drafts had important limitations because they often mixed unrelated information, used generic phrases, and sometimes felt too brief or did not match my real background.
+
+***Evaluation of the LLM Outputs***
+
+Gemini
+
+Gemini produced a long and structured text with many professional-sounding details.
+It focused heavily on operations and leadership, which matched my MBA concentration, but it also exaggerated some parts. For example it added '5+ years of operational leadership experience' and listed certifications I do not have.
+Even though it looked impressive, the tone was too formal and not authentic to how I would describe myself.
+
+ChatGPT
+
+This model gave me a very clear and organized outline.
+I even uploaded my resume in PDF so the text would be more personalized.
+It did use some real information from my resume, but the final writing still lacked authenticity and it sounded like something written for any MBA student.
+The sentences were short and generic, for example “passionate about innovation”, “known for data-driven decision making”, so I decided to rewrite them completely in my own words to truly represent my experience and personality.
+
+Spreed Chat
+
+Spreed Chat offered the most complete explanation about portfolio design and how to make it visual and professional.
+I liked its storytelling approach and the idea of highlighting signature projects and core competencies.
+The sample text was written for a fictional person “Sarah Jenkins” and was not realistic for my own background.
+It mixed volunteering, leadership, and skills in a way that didn’t fit my real experience.
+
+***What I Used and What I Changed***
+
+From all three models, I kept the basic structure: About Me, Education, Professional Experience, Skills and Strengths, and Contact Information.
+These sections helped me organize my ideas clearly.
+I also used their concept of “value proposition” and the idea of writing quantifiable achievements.
+
+I rewrote nearly every sentence to make it sound authentic, specific, and personal.
+I used my real experience, such as my work as Event Coordination Lead and Campus Support Ambassador at UCW, real achievements like improving event organization, promoting student engagement, and streamlining operations and my true academic background as a Chemical Engineer and MBA candidate in Operations Management.
+
+I deleted any exaggerated or unrealistic lines and made sure every point reflected something I had actually done or achieved.
+The final text uses a professional but natural tone, written in my own voice, with real data and personality.
+
+***Reflection***
+
+Using three different LLMs was a very helpful process for brainstorming and comparing styles.
+Each one gave me useful ideas for structure and formatting, but none of them could represent me accurately.
+They tended to mix sections like volunteering with skills, include invented achievements, or use repetitive, generic language.
+
+In my opinion, the LLM drafts were too general and lacked authenticity.
+By rewriting everything myself I turned those drafts into a real reflection of who I am, including my background, my goals, and my personality.
+The final portfolio now feels genuine and professional, showing both my technical and managerial strengths.
+I learned that AI tools are excellent for starting ideas, but the real value comes when you revise and personalize them to tell your own story.
+I believe it is very important to give an authentic touch to an online portfolio so that it truly reflects the person behind it and since most interactions are virtual, making the content feel genuine helps create the sense of a real and human connection.
+
+
+ ```{=typst}
+#pagebreak()
+```
+
+**References**
+
+> Google. (2025). Gemini output used for initial structure and wording [Large Language Model draft]. Retrieved from https://gemini.google.com 
+
+> OpenAI. (2025, October 26). ChatGPT conversation with Alejandra Elizabeth Cruz Zamora [Large Language Model output]. Retrieved from https://chatgpt.com/share/e/68fee508-2b70-8001-8af0-ac48b88f8887
+
+> Spreed.chat. (2025). LLM brainstorming session for portfolio layout and design ideas [Large Language Model draft]. Retrieved from https://spreed.chat
+
+
+```{=typst}
+#pagebreak()
+```
+**Appendix A1 GEMINI**
+
+“Create an outline and sample text for a one-page MBA student portfolio.”
+
+A one-page MBA student portfolio should be a highly curated document that tells a compelling, cohesive story about your professional journey, academic pursuits, and future career goals in a concise, visually appealing format. It expands upon your resume by adding depth, context, and evidence of your impact, particularly in Operations Management.
+
+Here is an outline and sample text tailored to Elizabeth Cruz's background.
+
+ONE-PAGE MBA STUDENT PORTFOLIO ELIZABETH CRUZ
+
+MBA Candidate 
+
+Operations Management Professional
+
+Vancouver, BC | alecruzzamora@hotmail.com | +1 (236) 979-9913 | [LinkedIn URL]Value PropositionChemical 
+
+Engineer and MBA Candidate with 5+ years of operational leadership experience, specializing in Lean Operations, Supply Chain Coordination, and Process Optimization. I excel at driving efficiency and cost reduction, leveraging a data-driven approach to enhance organizational performance and ensure regulatory compliance. I seek a strategic role where my technical background can be combined with advanced business acumen to lead large-scale operational improvements.
+
+Core Competencies
+
+Operational & Strategic Skills: Process Optimization, Lean Six Sigma Principles, Operational KPIs, Strategic Decision-Making, Audit Compliance, Risk Assessment.Technical & Analytical Skills: Data Analysis, Tableau, Financial Management, Project Planning & Execution, Advanced Microsoft Office Suite.Leadership Skills: Team Leadership & Coaching, Effective Communication, Emotional Intelligence, Adaptability, Mentorship.
+
+Key Projects and Quantifiable Impact
+ 
+1. Institutional Turnaround and Financial Loss Reduction: As Administrative Director, I optimized workflows, internal controls, and supply chain processes for an institution with significant financial challenges. This resulted in a reduction in financial losses and an increase in overall operational efficiency over three years.
+
+2. Major Capital Investment and Accreditation Success:Successfully led the management of a critical CAD $50000 lab investment project, overseeing budgeting, regulatory processes, and cost control. The project was completed on time, securing 2024 government accreditation and achieving a %100 audit approval rating for compliance procedures.
+
+3. Workflow Redesign and 40% Reduction in Turnaround Time:Addressed major administrative bottlenecks by redesigning admissions and academic record processes and implementing new financial tracking controls. This action cut document turnaround time by 40% and contributed to a 50% increase in program enrollment through improved operational capacity.
+
+Education and Professional Development 
+
+MBA in Operations Management | University Canada West, Vancouver, B.C. | Expected Graduation: May 2026.
+
+B.Sc. in Chemical Engineering | Autonomous University of San Luis Potosí, Mexico | Graduated 2020.
+
+Certifications: 
+
+Financial Accounting (UCW, 2025), Statistical Process Control (UASLP, 2021).
+
+Languages: Spanish (Native), German (A1).
+
+Leadership and InvolvementCampus Support Ambassador (UCW): Ensure facility safety, coordinate logistics, and recommend data-driven process improvements for a student body of 14,000+.
+
+Executive Team Member (Supply Chain Club): Served as a Key Contact, leading initiatives and supporting club operations.Event Coordination Lead (Ambassador for Career Success): Demonstrated strong organizational skills in planning and executing campus events.
+
+```{=typst}
+#pagebreak()
+```
+
+**Appendix A2: CHAT GPT**
+
+ELIZABETH CRUZ PRACTICUM RESUME.docx
+Document
+“Create an outline and sample text for a one-page MBA student portfolio.”
+ChatGPT said:
+
+Here’s a one-page MBA student portfolio outline and sample text based on your uploaded résumé.
+It’s designed to highlight your professional strengths, MBA development, and leadership experience in a clean, modern format suitable for job applications, networking, or LinkedIn summaries.
+
+🧭 Outline: MBA Student Portfolio (1 Page)
+
+1. Header
+
+Full name
+
+Contact info (email, phone, LinkedIn)
+
+MBA specialization and expected graduation
+
+2. Professional Summary
+A concise, 3–4 sentence overview emphasizing:
+
+Your MBA focus
+
+Key strengths and experience
+
+Leadership or career goals
+
+3. Key Achievements / Professional Highlights
+3–4 bullet points showing measurable impact (quantifiable results, leadership, process improvements).
+
+4. Experience Snapshot
+Select 2–3 major roles (condensed) showing progressive responsibility and outcomes.
+
+5. Education & Certifications
+MBA + undergraduate degree + selected certifications relevant to your specialization.
+
+6. Leadership & Involvement
+Campus or community engagement, such as volunteering or student clubs.
+
+7. Core Competencies
+6–8 keywords highlighting your technical and soft skills.
+
+🧩 Sample One-Page Portfolio Text
+
+ELIZABETH CRUZ
+Vancouver, BC | alecruzzamora@hotmail.com
+ | +1 (236) 979-9913 | [LinkedIn Profile]
+
+MBA Candidate | Operations Management | University Canada West (Expected May 2026)
+
+Chemical Engineering Professional pursuing an MBA in Operations Management with 5+ years of experience optimizing processes, leading cross-functional teams, and driving operational excellence across education and industrial sectors. Known for data-driven decision-making, cost reduction, and workflow improvements. Passionate about bridging engineering efficiency and business strategy to deliver sustainable organizational growth.
+
+Key Achievements
+
+Increased institutional efficiency by 30% and reduced financial losses by 50% through workflow redesign and audit implementation.
+
+Directed a CAD $50,000 laboratory investment project achieving full government accreditation in 2024.
+
+Improved student satisfaction to 99% through strategic scheduling, operational controls, and quality service delivery.
+
+Supported campus operations for 14,000+ students, enhancing safety and logistics efficiency.
+
+Experience Snapshot
+
+Administrative Director – Institute of Dental Prosthetics, Mexico (2021–2024)
+Led daily operations for 200+ students and 20 staff, developed compliance frameworks, and built 50+ industry partnerships.
+
+Campus Support Ambassador – University Canada West, Vancouver (2025–Present)
+Enhancing operational efficiency and safety compliance across university facilities while supporting data-driven improvements.
+
+Operations Manager – Institute of Vocational Training, Mexico (2019–2021)
+Implemented financial tracking systems and marketing campaigns, achieving enrollment growth of 50% and full audit approval.
+
+Education & Certifications
+
+MBA, Operations Management, University Canada West (Expected 2026)
+B.Sc., Chemical Engineering, Autonomous University of San Luis Potosí, Mexico
+Certifications: Financial Accounting (UCW, 2025) | Statistical Process Control | Principles of Productivity & Quality
+
+Leadership & Involvement
+
+Volunteer – Event Coordination Lead, Career Success Ambassador (UCW)
+
+Key Contact, UCW Supply Chain Club
+
+Intern – Operations, QB Chemical Industries
+
+Core Competencies
+
+Operations Management | Process Optimization | Lean Principles | Project Leadership | Financial Analysis | Data-Driven Strategy | Compliance | Cross-Cultural Communication
+
+Would you like me to format this as a PDF-ready one-page design (with layout, headings, and spacing optimized for printing or LinkedIn upload)? I can generate that next.
+
+```{=typst}
+#pagebreak()
+```
+**Appendix A3: SPREED CHAT**
+
+“Create an outline and sample text for a one-page MBA student portfolio.”
+
+Gemini 2.5 Pro
+
+Of course. A one-page MBA student portfolio is a powerful tool for networking and interviews. It's more visual and narrative-driven than a resume, allowing you to showcase your impact and strategic thinking.
+
+Here is a detailed outline and sample text for a one-page MBA student portfolio.
+
+Why a One-Page Portfolio?
+
+It's a "Show, Don't Tell" Document: While a resume lists your experiences, a portfolio demonstrates your accomplishments with context, data, and results.
+
+It's a Conversation Starter: It gives recruiters and networking contacts specific, compelling stories to ask you about.
+It Highlights Your Brand: It allows you to frame your unique value proposition—the intersection of your past experience, MBA skills, and future aspirations.
+
+Key Principles for a One-Page Portfolio
+Visually Scannable: Use columns, icons, and clear headings. The reader should grasp your story in 30 seconds.
+
+Quantify Everything: Use numbers, percentages, and dollar amounts to demonstrate impact.
+Be Concise: Every word counts. Use strong action verbs and remove jargon.
+
+Tell a Story: The projects you choose should build a narrative about who you are and where you're going.
+
+Tailor It: Have a master version, but be prepared to swap out projects or skills to align with a specific role or industry.
+
+Outline for a One-Page MBA Student Portfolio
+A two or three-column layout works best for a one-page format.
+
+Section 1: Header & Personal Brand
+
+Full Name
+
+Professional Headshot (optional but recommended)
+
+Title: MBA Candidate, [Your University], Class of [Year]
+
+Contact Information: LinkedIn URL (hyperlinked), Email, Phone Number
+
+Personal Brand Statement / Professional Summary (2-3 lines): Your elevator pitch. Who are you, what’s your key expertise, and what value do you bring?
+
+Section 2: Core Competencies
+
+A visually clean list of your most relevant skills. Group them into categories to make them scannable.
+Strategic: e.g., Go-to-Market Strategy, Market Analysis, Competitive Intelligence
+Analytical: e.g., Financial Modeling, Data Visualization (Tableau/Power BI), SQL
+Leadership: e.g., Cross-Functional Team Leadership, Project Management, Stakeholder Communication
+Section 3: Signature Projects / Impact Showcase (The Core of the Portfolio)
+
+This section will take up the most space. Choose 2-3 high-impact projects. Include a mix of pre-MBA professional work and MBA academic/internship projects.
+For each project, include:
+
+Project Title: Give it a compelling, results-oriented name.
+
+Context: Company/Course, Your Role, Timeline (e.g., "TechCo Inc., Product Marketing Manager, 2021")
+The Challenge (1 line): The business problem you were tasked with solving.
+My Approach & Actions (2-3 bullet points): What specific actions did you take? Use strong verbs.
+Quantifiable Results (1-2 bullet points): The measurable outcome. This is the most critical part.
+
+Skills Demonstrated: Tag 2-3 key skills from your Core Competencies section.
+
+Section 4: Education & Leadership
+
+A concise section to reinforce your academic and extracurricular credentials.
+
+Education: [University Name], MBA Candidate | [Concentrations]
+Leadership/Involvement: Key roles in student clubs (e.g., "VP of Finance, Venture Capital Club") or other relevant activities.
+
+Section 5: Career Aspirations
+
+A short, forward-looking statement about your target roles or industries. This helps recruiters place you.
+Example: "Seeking a Summer 2024 internship in product management or business strategy within the high-growth technology sector."
+Sample Text for a One-Page MBA Student Portfolio
+Fictional Persona: “Sarah Jenkins,” a former finance professional pivoting to strategy & operations in the renewable energy sector.
+
+[Section 1: Header & Personal Brand]
+(Professional Headshot)
+
+Sarah Jenkins
+MBA Candidate, University of Michigan Ross School of Business, Class of 2025 [linkedin.com/in/sarahjenkins] | [s.jenkins@email.com] | [555-123-4567]
+
+Professional Summary: Driven MBA candidate with 5 years of experience in corporate finance and M&A, now focused on driving operational efficiency and strategic growth in the renewable energy sector. Proven ability to translate complex data into actionable business strategy and lead cross-functional initiatives.
+
+[Section 2: Core Competencies]
+STRATEGIC	ANALYTICAL	LEADERSHIP
+• Market Entry Strategy	
+• Financial Modeling & Valuation	
+• Cross-Functional Team Leadership
+• Business Model Innovation	
+• Data Analysis (SQL, Python)	
+• Stakeholder Management
+• Competitive Analysis	
+• Data Visualization (Tableau)	
+• Project Management (Agile)
+• Corporate Development (M&A)	
+• Due Diligence	• Executive Presentation
+
+[Section 3: Signature Projects / Impact Showcase]
+
+Project 1: M&A Financial Integration (Pre-MBA)
+Context: Global Energy Corp., Senior Financial Analyst, 2021
+
+The Challenge: Integrate the financial reporting systems of a $150M acquired company within a tight 90-day deadline without disrupting operations.
+My Approach & Actions:
+Led a 4-person cross-functional team of finance, IT, and operations personnel.
+Developed a detailed integration roadmap, identifying key systems, data migration paths, and risk mitigation strategies.
+Built a dynamic financial model to forecast post-acquisition synergies and track integration costs.
+
+Quantifiable Results:
+Achieved full system integration 10 days ahead of schedule, enabling seamless Day-1 financial reporting.
+Identified $1.2M in annual operational synergies, exceeding the initial target by 20%.
+
+Skills Demonstrated: Financial Modeling, Project Management, Cross-Functional Leadership
+
+Project 2: Market Entry Strategy for EV Charging (MBA Project)
+Context: Ross MAP (Multidisciplinary Action Project), Strategy Consultant, 2024
+
+The Challenge: Advise a clean-tech startup on a viable strategy for entering the competitive U.S. commercial electric vehicle charging market.
+
+My Approach & Actions:
+Conducted primary market research, interviewing 15+ industry experts and potential customers to identify unmet needs.
+Performed a competitive analysis of 10 key players and built a financial model to project market share and profitability under three different pricing scenarios.
+Developed and presented a phased go-to-market recommendation to the client’s executive team.
+
+Quantifiable Results:
+Delivered a 3-phase market entry plan that was adopted by the client's board.
+Identified a niche "fleet services" beachhead market valued at an estimated $75M TAM.
+Skills Demonstrated: Market Entry Strategy,
+
+Competitive Analysis, Data Visualization
+
+[Section 4: Education & Leadership]
+University of Michigan, Ross School of Business | Ann Arbor, MI MBA Candidate, May 2025
+
+Concentrations: Strategy, Operations
+Leadership: Vice President of Communications, Energy Club
+
+University of Texas at Austin | Austin, TX BBA in Finance, with Honors, May 2018
+
+[Section 5: Career Aspirations]
+Seeking a summer 2024 internship in a strategy & operations or corporate development role within the renewable energy or clean-tech industry.
+
+
